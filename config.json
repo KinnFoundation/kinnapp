@@ -1,0 +1,23 @@
+{
+  "is_visible": true,
+  "user": 3,
+  "description": "Kinn is a decentralized autonomous organization (DAO) for NFT search, verification, and tools. $KINN holders can stake on an NFT or collection for a chance to earn part of the royalties, enabling the market to predict the sales price and frequency. Higher stakes indicate greater value and interest and will appear higher in searches and qualify for free advertising.",
+  "cover_image": "https://www.kinn.info/kinn_logo.svg",
+  "id": 3,
+  "updated_at": "2022-11-28T20:54:48.225902+00:00",
+  "created_at": "2022-11-28T20:54:48.225876+00:00",
+  "config": {
+    "brand": {
+      "image": "https://www.kinn.info/kinn_logo.svg"
+    },
+    "plan_ids": [
+      "dbd6cab32a8cb9c2dbd046e3618d618f"
+    ],
+    "strict_origin": true,
+    "contract_types": [
+      "KINN_A1_V4"
+    ]
+  },
+  "name": "KINN",
+  "is_active": true
+}
